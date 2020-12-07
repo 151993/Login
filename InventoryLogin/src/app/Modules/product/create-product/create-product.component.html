@@ -1,0 +1,49 @@
+
+<div class="card m-3">
+  <h5 class="card-header">{{ isCreate ? 'Create' : 'Update'}} Product</h5>
+  <div class="container">
+    <form [formGroup]="form" (ngSubmit)="onSubmit()">
+      <div class="form-row">
+        <div class="form-group form-group col-md-6">
+          <label for="exampleInputEmail1">Name <small>*</small> </label>
+          <input type="text" formControlName="name" class="form-control"
+            [ngClass]="{ 'is-invalid': submitted && f.name.errors }" placeholder="Enter name">
+          <div *ngIf="submitted && f.name.errors" class="invalid-feedback">
+            <div *ngIf="f.name.errors.required">Name is required</div>
+            <div *ngIf="f.name.errors.maxlength">Name cannot be more than 50 characters</div>
+          </div>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group form-group col-md-6">
+          <label for="price">Price <small>*</small></label>
+          <input type="number" formControlName="price" [ngClass]="{ 'is-invalid': submitted && f.price.errors }"
+            class="form-control" placeholder="Enter price">
+          <div *ngIf="submitted && f.price.errors" class="invalid-feedback">
+            <div *ngIf="f.price.errors.required">Price is required</div>
+          </div>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group form-group col-md-6">
+          <label for="quantity">Quantity <small>*</small></label>
+          <input type="number" formControlName="quantity" [ngClass]="{ 'is-invalid': submitted && f.quantity.errors }"
+            class="form-control" placeholder="Enter price">
+          <div *ngIf="submitted && f.quantity.errors" class="invalid-feedback">
+            <div *ngIf="f.quantity.errors.required">Quantity is required</div>
+            <div *ngIf="f.quantity.errors.pattern">Enter number only</div>
+          </div>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group form-group col-md-6">
+          <button class="btn btn-success">{{ isCreate ? 'Submit' : 'Update'}}</button>
+          <div>
+            <button class="btn btn-default position" (click)="Clear()">Clear</button>
+            <button [routerLink]="['/product/list']" class="btn btn-default back">Back</button>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

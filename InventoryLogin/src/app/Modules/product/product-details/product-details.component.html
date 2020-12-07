@@ -1,0 +1,20 @@
+
+<div class="container mx-auto" >
+    <div class="mt-4 mb-4 ml-5" style="width: 187%;">
+        <div class="card w-25">
+            <div class="card-header">
+                <h5>Product Details</h5>
+            </div>
+            <div class="card-body">
+                <h6 class="card-title"><strong> Name: </strong> {{product?.name}}</h6>
+                <h6 class="card-title"><strong> Price : </strong> {{product?.price | currency}}</h6>
+                <h6 class="card-title"><strong> Quantity : </strong> {{product?.quantity}}</h6>
+                <h6 class="card-title"><strong> Created Date : </strong> {{product?.createdDate | date: 'dd-MMM-yyyy' }}
+                </h6>
+            </div>
+            <div class="card-footer text-muted">
+                <a class="btn btn-success" [routerLink]="['/product/list']">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+.login100-form{
+    background: rgba(235, 242, 248, 0.2) !important;
+}
+.input100{
+    color: #ffffff !important;
+}
+::placeholder {
+    color: #ffffff;
+  }
+
+ 
+
