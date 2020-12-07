@@ -1,0 +1,11 @@
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\bin\Debug\netcoreapp3.1\InventoryMS.Domain.deps.json
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\bin\Debug\netcoreapp3.1\InventoryMS.Domain.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\obj\Debug\netcoreapp3.1\InventoryMS.Domain.AssemblyInfoInputs.cache
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\obj\Debug\netcoreapp3.1\InventoryMS.Domain.AssemblyInfo.cs
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\bin\Debug\netcoreapp3.1\InventoryMS.Domain.pdb
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\bin\Debug\netcoreapp3.1\InventoryMS.Common.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\bin\Debug\netcoreapp3.1\InventoryMS.Common.pdb
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\obj\Debug\netcoreapp3.1\InventoryMS.Domain.csprojAssemblyReference.cache
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\obj\Debug\netcoreapp3.1\InventoryMS.Domain.csproj.CopyComplete
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\obj\Debug\netcoreapp3.1\InventoryMS.Domain.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Domain\obj\Debug\netcoreapp3.1\InventoryMS.Domain.pdb

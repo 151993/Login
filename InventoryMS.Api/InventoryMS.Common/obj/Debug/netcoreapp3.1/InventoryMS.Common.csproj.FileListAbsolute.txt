@@ -1,0 +1,8 @@
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Common\bin\Debug\netcoreapp3.1\InventoryMS.Common.deps.json
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Common\bin\Debug\netcoreapp3.1\InventoryMS.Common.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Common\bin\Debug\netcoreapp3.1\InventoryMS.Common.pdb
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Common\obj\Debug\netcoreapp3.1\InventoryMS.Common.csprojAssemblyReference.cache
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Common\obj\Debug\netcoreapp3.1\InventoryMS.Common.AssemblyInfoInputs.cache
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Common\obj\Debug\netcoreapp3.1\InventoryMS.Common.AssemblyInfo.cs
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Common\obj\Debug\netcoreapp3.1\InventoryMS.Common.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Common\obj\Debug\netcoreapp3.1\InventoryMS.Common.pdb

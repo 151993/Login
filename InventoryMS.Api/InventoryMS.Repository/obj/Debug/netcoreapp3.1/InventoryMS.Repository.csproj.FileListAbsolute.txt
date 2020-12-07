@@ -1,0 +1,13 @@
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\bin\Debug\netcoreapp3.1\InventoryMS.Repository.deps.json
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\bin\Debug\netcoreapp3.1\InventoryMS.Repository.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\bin\Debug\netcoreapp3.1\InventoryMS.Repository.pdb
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\bin\Debug\netcoreapp3.1\InventoryMS.Common.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\bin\Debug\netcoreapp3.1\InventoryMS.Domain.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\bin\Debug\netcoreapp3.1\InventoryMS.Domain.pdb
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\bin\Debug\netcoreapp3.1\InventoryMS.Common.pdb
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\obj\Debug\netcoreapp3.1\InventoryMS.Repository.csprojAssemblyReference.cache
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\obj\Debug\netcoreapp3.1\InventoryMS.Repository.AssemblyInfoInputs.cache
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\obj\Debug\netcoreapp3.1\InventoryMS.Repository.AssemblyInfo.cs
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\obj\Debug\netcoreapp3.1\InventoryMS.Repository.csproj.CopyComplete
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\obj\Debug\netcoreapp3.1\InventoryMS.Repository.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.Repository\obj\Debug\netcoreapp3.1\InventoryMS.Repository.pdb

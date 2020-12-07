@@ -1,0 +1,13 @@
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\bin\Debug\netcoreapp3.1\InventoryMS.Common.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\bin\Debug\netcoreapp3.1\InventoryMS.Domain.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\obj\Debug\netcoreapp3.1\InventoryMS.ApplicationServices.AssemblyInfoInputs.cache
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\obj\Debug\netcoreapp3.1\InventoryMS.ApplicationServices.AssemblyInfo.cs
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\obj\Debug\netcoreapp3.1\InventoryMS.ApplicationServices.csprojAssemblyReference.cache
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\bin\Debug\netcoreapp3.1\InventoryMS.ApplicationServices.deps.json
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\bin\Debug\netcoreapp3.1\InventoryMS.ApplicationServices.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\bin\Debug\netcoreapp3.1\InventoryMS.ApplicationServices.pdb
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\bin\Debug\netcoreapp3.1\InventoryMS.Domain.pdb
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\bin\Debug\netcoreapp3.1\InventoryMS.Common.pdb
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\obj\Debug\netcoreapp3.1\InventoryMS.ApplicationServices.csproj.CopyComplete
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\obj\Debug\netcoreapp3.1\InventoryMS.ApplicationServices.dll
+D:\Work\JabilApps\InventoryMS.Api\InventoryMS.ApplicationServices\obj\Debug\netcoreapp3.1\InventoryMS.ApplicationServices.pdb
